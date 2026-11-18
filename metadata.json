@@ -1,0 +1,6 @@
+{
+  "name": "Shiva Financial Solution — V. K. Shukla Portfolio",
+  "description": "Official portfolio and service desk for V. K. Shukla, Shiva Financial Solution — Air, Rail & Bus Ticketing, Domestic Money Transfer, and Online Services in Delhi-92.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
